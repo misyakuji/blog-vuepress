@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "Misyakuji",
-    url: "https://blog.misyakuji.top",
+    url: "https://misyakuji.edgeone.dev",
   },
 
   iconAssets: "fontawesome-with-brands",
